@@ -4,7 +4,7 @@ This is the master index for my cloud solutions architect learning journey based
 
 ---
 
-## ✅ [AZ-900 – Azure Fundamentals](01_azure_fundamentals/README.md) (~6h 4m)
+## 01 ✅ [AZ-900 – Azure Fundamentals](01_azure_fundamentals/README.md) (~6h 4m)
 | Module | Status |
 |--------|--------|
 | [Cloud concepts](01_azure_fundamentals/01_cloud_concepts.md) | ✅ Completed |
@@ -13,7 +13,7 @@ This is the master index for my cloud solutions architect learning journey based
 
 ---
 
-## 🌱 [AZ-104 – Azure Administrator Associate](02_administrator_associate/README.md) (~21h 33m)
+## 02🌱 [AZ-104 – Azure Administrator Associate](02_administrator_associate/README.md) (~21h 33m)
 | Module | Status |
 |--------|--------|
 | [Identities and Governance](02_administrator_associate/01_identities_governance.md) | ⏳ Not Started |
@@ -24,7 +24,7 @@ This is the master index for my cloud solutions architect learning journey based
 
 ---
 
-## 🛡️ [AZ-500 – Azure Security Engineer Associate](03_security_engineer_associate/README.md) (~22h 49m)
+## 03🛡️ [AZ-500 – Azure Security Engineer Associate](03_security_engineer_associate/README.md) (~22h 49m)
 | Module | Status |
 |--------|--------|
 | [Secure Identity & Access](03_security_engineer_associate/01_identity_access.md) | ⏳ Not Started |
@@ -34,7 +34,7 @@ This is the master index for my cloud solutions architect learning journey based
 
 ---
 
-## 🏗️ [AZ-305 – Azure Solutions Architect Expert](04_solutions_architect_expert/README.md) (~24h 56m)
+## 04🏗️ [AZ-305 – Azure Solutions Architect Expert](04_solutions_architect_expert/README.md) (~24h 56m)
 | Module | Status |
 |--------|--------|
 | [Design Identity, Governance & Monitor Solutions](04_solutions_architect_expert/01_design_identity_governance.md) | ⏳ Not Started |
@@ -47,5 +47,14 @@ This is the master index for my cloud solutions architect learning journey based
 ---
 
 _Total Estimated Learning Time: ~75h 22m_
+---
+
+## 📂 Additional Sections
+
+---
+## 05🛠 [Projects – Practical Labs & Case Studies](05_projects/README.md)  
+
+## 06📚 [Resources – Tools, References & Glossary](06_resources/README.md)
 
 _More levels will be added as I progress._
+
