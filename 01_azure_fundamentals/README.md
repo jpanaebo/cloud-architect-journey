@@ -15,9 +15,9 @@ This folder contains study notes, summaries, and exercises for the AZ-900 certif
 [Learning Path Link](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 | # | Module | Status |
 |---|---------|--------|
-| 1 | [Describe Cloud Computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/) (23 min) | ⏳ In Progress |
-| 2 | [Describe the Benefits of Cloud Computing](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/) (17 min) | ⏳ Not Started |
-| 3 | [Describe Cloud Service Types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/) (12 min) | ⏳ Not Started |
+| 1 | [Describe Cloud Computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/) (23 min) | ✅ Completed |
+| 2 | [Describe the Benefits of Cloud Computing](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/) (17 min) | ✅ Completed |
+| 3 | [Describe Cloud Service Types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/) (12 min) | ✅ Completed |
 
 ---
 
