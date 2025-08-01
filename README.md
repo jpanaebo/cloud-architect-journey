@@ -6,7 +6,7 @@ Personal notes and projects while learning cloud architecture, DevOps, and relat
 
 ## 📅 Roadmap
 A detailed step-by-step learning roadmap is available here:  
-➡️ [Cloud Solutions Architect Roadmap](00_roadmap/roadmap.md)
+➡️ [Cloud Solutions Architect Roadmap](00_roadmap/)
 
 ---
 
